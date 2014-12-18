@@ -1,0 +1,611 @@
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild5.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=DEPLOYMENT JOBNAME=DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVRS=192.169.31.147, TAR_ID=CCR_49999-apisBuild.tar.gz, WORKFLAG=N, RESFLAG=N SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+SVRS_CNT=1
+Check if tar is present---
+Rolling out CCR_49999-apisBuild.tar.gz on R
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.31.147 CCR_49999-apisBuild.tar.gz N N R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS JENKINS  DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS JENKINS  DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS JENKINS  DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=DAMAPISEARCHREPORTS JOBNAME=JENKINS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R JENKINS DAMAPISEARCHREPORTS  JENKINS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS JENKINS  DAMAPISEARCHREPORTS
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS JENKINS  
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use R or B in first parameter rollout/rollback
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.7, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.7
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.7 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  
+1)Parameters correct
+2)ACTFLAG=B, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use R or RB in first parameter rollout/rollback
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  
+ERROR: Usage:sudo /data/var/installs/deployscripts/relmain.sh R/B server(s) CCR_tar_id Y/N Y/N Y/N DeployUser JenkinsJobName(rollout/rollback server_list_comma_seperated ccr_upload_id, remove_work_folder,restart_server,Shutdown Server,deployuser,Jenkins Job Name)
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.168.33.71
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.168.33.71 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+ERROR: Usage:sudo /data/var/installs/deployscripts/relmain.sh R/B server(s) CCR_tar_id Y/N Y/N Y/N DeployUser JenkinsJobName(rollout/rollback server_list_comma_seperated ccr_upload_id, remove_work_folder,restart_server,Shutdown Server,deployuser,Jenkins Job Name)
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=RB, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y RB DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESFLAG=Y SHUTFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS
+Use 192.169 series server in list
+Check if tar is present---
+Rolling out CCR_49999-apisBuild6.tar.gz on 192.169.30.196
+sh /data/var/installs/deployscripts/release_scripts/release.sh 192.169.30.196 CCR_49999-apisBuild6.tar.gz N Y R DAMAPISEARCHREPORTS JENKINS  DAM
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESTOMFLAG=Y RESAPACHEFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESTOMFLAG=Y RESAPACHEFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESTOMFLAG=Y RESAPACHEFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.169.30.196, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESTOMFLAG=Y RESAPACHEFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESTOMFLAG=Y RESAPACHEFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESTOMFLAG=Y RESAPACHEFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESTOMFLAG=Y RESAPACHEFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESTOMFLAG=Y RESAPACHEFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=N, RESTOMFLAG=Y RESAPACHEFLAG=N USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild7ap.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
+1)Parameters correct
+2)ACTFLAG=R, SVR=192.168.33.71, TAR_ID=CCR_49999-apisBuild6.tar.gz, WORKFLAG=Y, RESTOMFLAG=Y RESAPACHEFLAG=Y USER=JENKINS JOBNAME=DAMAPISEARCHREPORTS PROJECT_NM=DAM
+Use 192.169 series server in list
